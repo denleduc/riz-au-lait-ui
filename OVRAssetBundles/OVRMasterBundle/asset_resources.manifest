@@ -1,0 +1,148 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.58f2
+CRC: 2727262422
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ca408781015f569890d60583e67ccf4c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a172d39707de1b11dd61764a79ba3126
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 52f5d5011f9255a3e323c03bd37cba9e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8922a6ca86889d84f8371a29d37b6dc8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2705215ac5b84b70bacc50632be6e391, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 82874db8faf1071438bbcf855a2e8a93, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 84a92b25f83d49b9bc132d206b370281, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a7d75bea1662418ab5f9e0c22110bc09, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: efa1458c2bc55e04b872c61942be2866, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ab2114bdc8544297b417dfefe9f1e410, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3863570e7e6387a40ae4f323d83291e5, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Meta.XR.ImmersiveDebugger.Interface
+  ClassName: Meta.XR.ImmersiveDebugger.DebugMember
+- AssemblyName: Meta.XR.ImmersiveDebugger
+  ClassName: Meta.XR.ImmersiveDebugger.InspectedMember
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FaceInfo_Legacy
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FontAssetCreationSettings
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.KerningTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_Character
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontFeatureTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontWeightPair
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_Sprite
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_SpriteCharacter
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_SpriteGlyph
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_Style
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.FaceInfo
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.Glyph
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.GlyphMetrics
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.GlyphRect
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.LowLevel.GlyphAdjustmentRecord
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.LowLevel.GlyphPairAdjustmentRecord
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.LowLevel.GlyphValueRecord
+Assets:
+- Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat
+- Assets/Resources/Materials/LinearGradientUILight.mat
+- Assets/Resources/OVROverlayCanvasSettings.asset
+- Assets/Resources/Stylized NPC - Peasant Nolant/Materials/Peasant Nolant Green.mat
+- Assets/Resources/Stylized NPC - Peasant Nolant/Prefabs/Peasant Nolant Brown(Free
+  Version).prefab
+- Assets/Resources/Stylized NPC - Peasant Nolant/Textures/Peasant Nolant Green.png
+- Assets/Resources/OVRPlatformToolSettings.asset
+- Assets/Resources/Stylized NPC - Peasant Nolant/Prefabs/Peasant Nolant Blue(Free
+  Version).prefab
+- Assets/Resources/ImmersiveDebuggerSettings.asset
+- Assets/Resources/Stylized NPC - Peasant Nolant/Textures/Peasant Nolant Brown.png
+- Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset
+- Assets/Resources/Materials/RoundedBoxUI.mat
+- Assets/Resources/Stylized NPC - Peasant Nolant/Materials/Peasant Nolant Blue.mat
+- Assets/Resources/Materials/LinearGradientUIDark.mat
+- Assets/Resources/Stylized NPC - Peasant Nolant/Textures/Peasant Nolant Yellow.png
+- Assets/Resources/Stylized NPC - Peasant Nolant/Animator/Animator Controller.controller
+- Assets/Resources/OculusRuntimeSettings.asset
+- Assets/TextMesh Pro/Resources/TMP Settings.asset
+- Assets/Resources/Stylized NPC - Peasant Nolant/Models/Peasant Nolant(Free Version).fbx
+- Assets/Resources/Stylized NPC - Peasant Nolant/Prefabs/Peasant Nolant Yellow(Free
+  Version).prefab
+- Assets/Resources/Stylized NPC - Peasant Nolant/Prefabs/Peasant Nolant Green(Free
+  Version).prefab
+- Assets/Resources/InputActions.asset
+- Assets/Resources/Materials/backgrounds/bg01.mat
+- Assets/Resources/Stylized NPC - Peasant Nolant/Textures/Peasant Nolant Blue.png
+- Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+- Assets/Resources/OVRBuildConfig.asset
+- Assets/Resources/Stylized NPC - Peasant Nolant/Materials/Peasant Nolant Yellow.mat
+- Assets/Resources/Stylized NPC - Peasant Nolant/Materials/Peasant Nolant Brown.mat
+- Assets/Resources/Materials/TriangleMask.mat
+- Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat
+- Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+- Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset
+- Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt
+- Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt
+Dependencies:
+- C:/Users/Denis/Documents/Unity/Interface Minimale 2025-10-26_23-16-10/Interface
+  Minimale/OVRAssetBundles/OVRMasterBundle/asset_exr0
+- C:/Users/Denis/Documents/Unity/Interface Minimale 2025-10-26_23-16-10/Interface
+  Minimale/OVRAssetBundles/OVRMasterBundle/asset_shader0
+- C:/Users/Denis/Documents/Unity/Interface Minimale 2025-10-26_23-16-10/Interface
+  Minimale/OVRAssetBundles/OVRMasterBundle/asset_ttf0

@@ -1,0 +1,4 @@
+repository "Interface Minimale 2025-10-26_23-16-10/Interface Minimale@1375855504218@cloud"
+  path "/"
+    br "/main"
+    co "/main"

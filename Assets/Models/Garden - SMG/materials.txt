@@ -1,0 +1,228 @@
+CliffMat_v
+==========
+  Textures:
+    - MAP0000k
+
+  Ambient Colors:
+    - 100, 100, 100, 195
+
+  Constant Colors:
+    - 0, 0, 0, 180
+
+  Material Colors:
+    - 203, 203, 203, 255
+    - 203, 203, 203, 255
+
+  Color Registers:
+    - 216, 182, 125, 250
+    - 0, 0, 0, 368
+
+
+
+CloudMat_v
+==========
+  Textures:
+    - HighLandCloud02L
+        Offset: 0.8801999688148499, 0
+
+  Ambient Colors:
+    - 100, 100, 100, 195
+
+  Constant Colors:
+    - 0, 77, 167, 255
+
+  Material Colors:
+    - 204, 204, 204, 255
+    - 204, 204, 204, 255
+
+  Color Registers:
+    - 218, 237, 205, 255
+
+
+
+DGrass00_v
+==========
+  Textures:
+    - puffleaf
+
+  Ambient Colors:
+    - 100, 100, 100, 195
+
+  Constant Colors:
+    - 0, 0, 0, 180
+
+  Material Colors:
+    - 203, 203, 203, 255
+    - 203, 203, 203, 255
+
+  Color Registers:
+    - 255, 255, 255, 250
+    - 0, 0, 0, 368
+
+
+
+FlowerP_v
+=========
+  Textures:
+    - parplehanataba
+
+  Ambient Colors:
+    - 100, 100, 100, 195
+
+  Constant Colors:
+    - 0, 0, 0, 180
+
+  Material Colors:
+    - 203, 203, 203, 255
+    - 203, 203, 203, 255
+
+  Color Registers:
+    - 255, 255, 255, 250
+    - 0, 0, 0, 368
+
+
+
+FlowerW_v
+=========
+  Textures:
+    - whitetaba
+
+  Ambient Colors:
+    - 100, 100, 100, 195
+
+  Constant Colors:
+    - 0, 0, 0, 180
+
+  Material Colors:
+    - 203, 203, 203, 255
+    - 203, 203, 203, 255
+
+  Color Registers:
+    - 255, 255, 255, 250
+    - 0, 0, 0, 368
+
+
+
+FlowerY_v
+=========
+  Textures:
+    - yellowhanataba
+
+  Ambient Colors:
+    - 100, 100, 100, 195
+
+  Constant Colors:
+    - 0, 0, 0, 180
+
+  Material Colors:
+    - 203, 203, 203, 255
+    - 203, 203, 203, 255
+
+  Color Registers:
+    - 255, 255, 255, 250
+    - 0, 0, 0, 368
+
+
+
+GrassMat_v
+==========
+  Textures:
+    - Grass0009k
+
+  Ambient Colors:
+    - 100, 100, 100, 195
+
+  Constant Colors:
+    - 0, 0, 0, 180
+
+  Material Colors:
+    - 203, 203, 203, 255
+    - 203, 203, 203, 255
+
+  Color Registers:
+    - 0, 0, 0, 368
+
+
+
+GroundMat_v
+===========
+  Textures:
+    - Ground00
+        Scale: -0.2099609375, -0.2099609375
+
+  Ambient Colors:
+    - 100, 100, 100, 195
+
+  Constant Colors:
+    - 0, 0, 0, 180
+
+  Material Colors:
+    - 203, 203, 203, 255
+    - 203, 203, 203, 255
+
+  Color Registers:
+    - 0, 0, 0, 368
+
+
+
+MoutainMat_v
+============
+  Textures:
+    - Mountain
+
+  Ambient Colors:
+    - 100, 100, 100, 195
+
+  Constant Colors:
+    - 0, 0, 0, 180
+    - 80, 80, 80, 255
+
+  Material Colors:
+    - 203, 203, 203, 255
+    - 203, 203, 203, 255
+
+  Color Registers:
+    - 255, 255, 255, 250
+    - -70, -70, -70, 368
+
+
+
+NearCloud_v
+===========
+  Textures:
+    - HighLandCloud01S
+        Offset: -9.14687728881836, 0
+
+  Ambient Colors:
+    - 100, 100, 100, 195
+
+  Constant Colors:
+    - 198, 255, 229, 255
+
+  Material Colors:
+    - 204, 204, 204, 231
+    - 204, 204, 204, 231
+
+  Color Registers:
+    - 255, 255, 255, -4
+
+
+
+RockMat_v
+=========
+  Textures:
+    - MAP0048
+
+  Ambient Colors:
+    - 100, 100, 100, 195
+
+  Constant Colors:
+    - 0, 0, 0, 180
+
+  Material Colors:
+    - 203, 203, 203, 255
+    - 203, 203, 203, 255
+
+  Color Registers:
+    - 255, 255, 255, 250
+    - 0, 0, 0, 368
